@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1020169034226",
+    "project_id": "translatorapp-af051",
+    "storage_bucket": "translatorapp-af051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020169034226:android:80960956db6d879dfaf36b",
+        "android_client_info": {
+          "package_name": "com.android.tanslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020169034226-qea3cfbmb4gcndgk63a158u990d4o7s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9I8f_A81SU8DNun6i2hXnBEK3o8nEeko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020169034226-qea3cfbmb4gcndgk63a158u990d4o7s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020169034226:android:c339c332598f5e9bfaf36b",
+        "android_client_info": {
+          "package_name": "com.example.tanslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020169034226-qea3cfbmb4gcndgk63a158u990d4o7s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9I8f_A81SU8DNun6i2hXnBEK3o8nEeko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020169034226-qea3cfbmb4gcndgk63a158u990d4o7s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
